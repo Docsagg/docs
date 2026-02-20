@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "Releazio",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/releazio-light.svg",
+    "dark": "/logo/releazio-dark.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
